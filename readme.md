@@ -1,13 +1,15 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = false
-	logallrefupdates = true
-	ignorecase = true
-	precomposeunicode = true
-[remote "origin"]
-	url = git@github.com:HZNU-FT/Interview-AI.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
-[branch "master"]
-	remote = origin
-	merge = refs/heads/master
+# AI英语面试系统
+
+![](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg?style=flat-square)![](https://img.shields.io/npm/v/npm.svg?style=flat-square)
+
+
+---
+
+## Installing
+```bash
+...
+```
+
+## License
+
+MIT © [HZNU FT-Group](https://#)
