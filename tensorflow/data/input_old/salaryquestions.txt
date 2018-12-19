@@ -1,0 +1,77 @@
+## 工资
+What is your expected salary					
+What are your salary expectations					
+What range of pay-scale are you interested in					
+What salary do you expect					
+Id like to know the salary you expect					
+Id like to know your salary expectations					
+What kind of salary are you after					
+What about the salary you are seeking					
+What do you think of your upper salary					
+How much salary do you want to ask for					
+Can you give me some idea of the salary you're expecting					
+What salary are you seeking					
+What are you looking for in salary					
+Do you know how much you’re worth					
+How much are you earning at the moment					
+What is your salary now					
+what is your current salary				
+What are your salary requirements					
+I'd like to know your salary requirements					
+What are your salary limits					
+I'd like to know your salart limits					
+Why do you deserve more					
+Why do you think you are deserved to give higher salary					
+What about your salary benefits					
+I'd like to know your thought on salary benefits					
+What do you think of the bonuses					
+What about your requirements about bonuses					
+I'd like to know your thought on bonuses					
+Do you care the salary cap					
+what do you think of salary deduction					
+I'd like to know your thought on decrease in salary					
+Would you mind salary adjustment in the future					
+How about your present pay					
+What Is your yearly salary now					
+What were they paying you，If you don’t mind my asking					
+What is your monthly salary now					
+What starting salary would you expect					
+What do you think of your salary raise after your probation period					
+How about your present pay					
+What fringe benefits do you expect					
+Would you consider a salary at RMB  Yuan					
+How about your pay scale					
+What do you think of overtime pay					
+What do you require on the commission
+
+## 再来一次
+I would like to have another chance
+I want to try again
+I want to have another try
+can  i try again
+again	
+
+## 住宿
+Do you ask for an apartment
+Do company have a domitory
+can i live in company's domitory
+Can company offer me an apartment
+
+## 补偿
+Do you have any requitements on the worker’s compensation					
+Will i have compensation if i'm injured
+How will company handle injury
+
+## 退休
+How about your retirement pension
+
+## 放假				
+How about vacations
+How many day offs do you want
+do I have to work on weekend
+how many days off can i have in a month
+
+## 保险			
+What do you think of the insurance
+Will company pay my insurance
+How about insurance
