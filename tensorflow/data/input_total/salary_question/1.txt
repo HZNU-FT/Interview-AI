@@ -1,44 +1,44 @@
-What is your expected salary
-What are your salary expectations
-What range of pay-scale are you interested in
-What salary do you expect
-Id like to know the salary you expect
-Id like to know your salary expectations
-What kind of salary are you after
-What about the salary you are seeking
-What do you think of your upper salary
-How much salary do you want to ask for
-Can you give me some idea of the salary youre expecting
-What salary are you seeking
-What are you looking for in salary
-Do you know how much youre worth
-How much are you earning at the moment
-What is your salary now
-what is your current salary
-What are your salary requirements
-Id like to know your salary requirements
-What are your salary limits
-Id like to know your salart limits
-Why do you deserve more
-Why do you think you are deserved to give higher salary
-What about your salary benefits
-Id like to know your thought on salary benefits
-What do you think of the bonuses
-What about your requirements about bonuses
-Id like to know your thought on bonuses
-Do you care the salary cap
-what do you think of salary deduction
-Id like to know your thought on decrease in salary
-Would you mind salary adjustment in the future
-How about your present pay
-What Is your yearly salary now
-What were they paying you , If you dont mind my asking
-What is your monthly salary now
-What starting salary would you expect
-What do you think of your salary raise after your probation period
-How about your present pay
-What fringe benefits do you expect
-Would you consider a salary at RMB Yuan
-How about your pay scale
-What do you think of overtime pay
-What do you require on the commission
+What is your expected salary 
+What are your salary expectations salarypay
+What range of pay-scale are you interested in salary salarypay
+What salary do you expect salarypay
+Id like to know the salary you expect salarypay
+Id like to know your salary expectations salarypay
+What kind of salary are you after salarypay 
+What about the salary you are seeking salarypay
+What do you think of your upper salary salarypay
+How much salary do you want to ask for salarypay
+Can you give me some idea of the salary youre expecting salarypay
+What salary are you seeking salarypay
+What are you looking for in salary salarypay
+Do you know how much youre worth salary salarypay
+How much are you earning at the moment salary salarypay
+What is your salary now salarypay
+what is your current salary salarypay
+What are your salary requirements salarypay
+Id like to know your salary requirements salarypay
+What are your salary limits salarypay
+Id like to know your salary limits salarypay
+Why do you deserve more salary salarypay
+Why do you think you are deserved to give higher salary salarypay
+What about your salary benefits salarypay
+Id like to know your thought on salary benefits salarypay
+What do you think of the bonuses salarypay
+What about your requirements about bonuses salarypay
+Id like to know your thought on bonuses salarypay
+Do you care the salary cap salarypay
+what do you think of salary deduction salarypay
+Id like to know your thought on decrease in salary salarypay
+Would you mind salary adjustment in the future salarypay
+How about your present pay salarypay
+What Is your yearly salary now salarypay
+What were they paying you , If you dont mind my asking salarypay
+What is your monthly salary now salarypay
+What starting salary would you expect salarypay
+What do you think of your salary raise after your probation period salarypay
+How about your present pay salarypay
+What fringe benefits do you expect salarypay
+Would you consider a salary at RMB Yuan salarypay
+How about your pay scale salarypay
+What do you think of overtime pay salarypay
+What do you require on the commission salary salarypay

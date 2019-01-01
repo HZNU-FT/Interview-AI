@@ -1,5 +1,5 @@
-I would like to have another chance
-I want to try again
-I want to have another try
-can i try again
-again
+I would like to have another chance tryagain
+I want to try again tryagain
+I want to have another try tryagain
+can i try again tryagain
+again tryagain
